@@ -16,7 +16,7 @@
         $query = mysqli_query($conn, "SELECT * FROM customer")
         ?>
 
-        <center><h1>Data Buku:</h1></center>
+        <center><h1>Data Customer:</h1></center>
         <a class="btn btn-info" style="margin-bottom:5px" href="tambah.php"> Tambah Buku </a>
             <table  class="table table-striped table-bordered">
                 <tr>
